@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Again bullshit commit
+=======
+Koths gooms
+>>>>>>> 15856ca... Again bullsit conflicts
 
 Hello my fucking world
